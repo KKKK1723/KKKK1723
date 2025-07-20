@@ -33,11 +33,9 @@
 <tr>
 <td valign="top"  width="50%">
 
-#### 🍬 糖豆人
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-</p>
+#### 🐍 contributions
 
+![](https://raw.githubusercontent.com/KKKK1723/snk/output-svg-only/github-contribution-grid-snake.svg)
 
 
 </td>
