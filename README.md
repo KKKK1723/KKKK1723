@@ -14,7 +14,9 @@
 - ⚽   院足球队成员，热爱运动，积极参加各类比赛  
 - 💬 欢迎交流编程、学习、生活等话题  
 
-**「Keep Coding, Keep Curious!」** ❤️
+**CSDN 博客** | 70+ 篇技术文章, 8W+ 访问 | [CSDN](https://blog.csdn.net/2401_87117051?spm=1000.2115.3001.5343) 
+
+  **「Keep Coding, Keep Curious!」** ❤️
 </td>
 <td valign="center"  width="100%" height="100%">
 <img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="300">
@@ -23,6 +25,7 @@
 </table>
 
 <hr/>
+
 
 
 ## 🛠️ 略知一二
@@ -59,6 +62,10 @@
 ![](https://raw.githubusercontent.com/KKKK1723/snk/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 
+
 </td>
 </tr>
 </table>
+
+📧 **联系我**: 
+ - 邮箱 `2052436429@qq.com`
