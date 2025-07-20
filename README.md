@@ -1,7 +1,7 @@
 <!-- 个人主页 README.md 示例，深色酷炫风格 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+KKKK1723!;C%2B%2B+%7C+Algorithm+%7C+QT+%7C+More..." alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z2b2J6d2F2b2J6d2F2b2J6d2F2b2J6d2F2b2J6d2F2b2J6/g9582DNuQppxC/giphy.gif" width="350"/>
 </p>
 
 <p align="center">
