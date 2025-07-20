@@ -35,7 +35,7 @@
 
 #### 🐍 contributions
 
-![](https://raw.githubusercontent.com/KKKK1723/snk/output-svg-only/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/KKKK1723/snk/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 
 </td>
