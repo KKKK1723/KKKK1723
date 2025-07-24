@@ -59,7 +59,7 @@
 
 #### 🐍 contributions
 
-(https://raw.githubusercontent.com/KKKK1723/KKKK1723/output/dist/only-svg/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/KKKK1723/snk/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 
 
