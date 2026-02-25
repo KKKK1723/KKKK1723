@@ -6,10 +6,9 @@
 <tr>
 <td valign="top"  width="50%">
 
-- 🎓 大三软件工程在读  热爱C++的小白
-- 💻  努力学习C++方向  
+- 🎓 大三软件工程在读  热爱代码的小白
+- 💻  努力学习各个方向  
 - 🔍 喜欢探索各种新知识，热衷技术钻研  
-- 🌱 未来希望能开发出让大家喜欢、真正有用的程序
 - ⚽   院足球队成员，热爱运动，积极参加各类比赛  
 - 💬 欢迎交流编程、学习、生活等话题  
 
@@ -36,6 +35,13 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=grpc&logoColor=white)
 ![Boost::Asio](https://img.shields.io/badge/Boost.Asio-FFDD00?logo=boost&logoColor=black)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
+![RTSP](https://img.shields.io/badge/RTSP-333333?logoColor=white)
+![V4L2](https://img.shields.io/badge/V4L2-FCC624?logo=linux&logoColor=black)
+![MPP](https://img.shields.io/badge/RK_MPP-E4002B?logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
+
+
 
 ---
 
