@@ -4,21 +4,30 @@
 
 <table>
 <tr>
-<td valign="top"  width="50%">
+<td align="left" valign="middle" width="50%">
 
-- 🎓 大三软件工程在读  热爱代码的小白
-- 💻  努力学习各个方向  
-- 🔍 喜欢探索各种新知识，热衷技术钻研  
-- ⚽   院足球队成员，热爱运动，积极参加各类比赛  
-- 💬 欢迎交流编程、学习、生活等话题  
+  - 💻 C++ 软件开发工程师，关注高性能网络与工程实践
+  - 🎥 专注于音视频、流媒体与车载 ADAS 方向
+  - 🤖 AI Agent 爱好者，持续探索大模型工具链与智能化开发方式
+  - ⚽ 热爱足球与运动，也喜欢钻研技术、记录并分享所学
+  - 💬 欢迎交流 C++、音视频、ADAS、AI Agent 以及学习和生活
 
-**CSDN 博客** | 100+ 篇技术文章, 12W+ 访问 | [CSDN](https://blog.csdn.net/2401_87117051?spm=1000.2115.3001.5343) 
+  **CSDN 博客** | 100+ 篇技术文章，15W+ 访问 | [CSDN](https://blog.csdn.net/2401_87117051)
 
   **「Keep Coding, Keep Curious!」** ❤️
-</td>
-<td valign="center"  width="100%" height="100%">
-<img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="300">
-</td>
+
+  </td>
+<td valign="middle" width="50%">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/KKKK1723/AI-token-dashboard/main/assets/ai-usage/ai-usage-light.svg">
+      <img
+        src="https://raw.githubusercontent.com/KKKK1723/AI-token-dashboard/main/assets/ai-usage/ai-usage-light.svg"
+        width="500"
+        height="300"
+        alt="AI Token Usage Dashboard">
 </tr>
 </table>
 
@@ -54,8 +63,19 @@
 
 ## 🏆 **my github stats:**
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKKK1723&theme=default)|![KKKK1723's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KKKK1723&layout=compact&hide_border=true&langs_count=10&theme=default)|
-|-|-|
+<table>
+  <tr>
+  <td valign="middle">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKKK1723" alt="GitHub
+    Profile Details">
+  </td>
+  <td valign="middle">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KKKK1723"
+    alt="Most Used Languages">
+  </td>
+  </tr>
+  </table>
+ 
 
 
 <table>
